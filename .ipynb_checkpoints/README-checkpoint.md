@@ -6,4 +6,4 @@ The primary goal of this project is to create a generative AI-driven pipeline th
  
 Based on this analysis, the system will generate personalised practice exercises that focus on the specific areas where each student struggles, ensuring targeted and effective learning. These new exercises will be accompanied by detailed solutions. Students will be provided with the possibility to use these newly created tasks to improve their grammar skills. 
 
-**OpenAI API** was selected as the platform for developing this pipeline with detailed prompt engineering. This project combines generative AI and humanistic education. Generative AI is used to improve the personalised support of students and help educators/teachers to create personalised exercises.
+Either OpenAI API or a suitable open-source LLM will be selected as the platform for developing this pipeline with detailed prompt engineering. This project should combine generative AI and humanistic education. The aim is to use generative AI to improve the personalised support of students and help educators/teachers to create personalised exercises.
